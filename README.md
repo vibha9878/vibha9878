@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Vibha Kumari
 
-<!--
-**vibha9878/vibha9878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma CSE Student  
+💻 Interested in Python & Web Development  
+🚀 Currently learning DSA and improving my programming skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- C
+- HTML & CSS
+- JavaScript
+- Flask
+- DBMS
+- Git & GitHub
+
+## 📌 Projects
+
+- 📝 Quiz System Management — Python, Flask, HTML, CSS & JavaScript
+- 🧾 Billing Application
+- 🎨 Colorful Spiral Art — Python Turtle & Colorsys
+
+## 🌱 Currently Learning
+
+- SQL
+- Data Structures & Algorithms (DSA)
+- C++
+- Advanced Python
+- Web Development
+
+## 🎯 Goal
+
+To become a skilled software developer by continuously learning, building projects, and improving my problem-solving skills.
+
+---
+
+⭐ Thanks for visiting my profile!
